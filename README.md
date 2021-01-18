@@ -19,3 +19,4 @@ I am planning on working as a Software Engineer.
 LinkedIn [https://www.linkedin.com/in/spyridon-kaperonis-58656819b/](https://www.linkedin.com/in/spyridon-kaperonis-58656819b/)
 GitHub   [https://github.com/SpyridonKaperonis](https://github.com/SpyridonKaperonis)
 
+![](2021.jpg)
