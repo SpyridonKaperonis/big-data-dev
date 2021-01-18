@@ -1,1 +1,11 @@
-# big-data-dev
+## big-data-dev
+
+# Spyridon Kaperonis
+
+## Current
+
+## Background
+
+## Plans
+
+## Links
