@@ -1,4 +1,3 @@
-## big-data-dev
 
 # Spyridon Kaperonis
 
