@@ -22,7 +22,7 @@ GitHub   [https://github.com/SpyridonKaperonis](https://github.com/SpyridonKaper
 
 ## Project Links
  
- - [PowerShell & Bash](https://github.com/SpyridonKaperonis/shell-data-processing)
+ - PowerShell & Bash [https://github.com/SpyridonKaperonis/shell-data-processing](https://github.com/SpyridonKaperonis/shell-data-processing)
 
 
 
